@@ -24,7 +24,7 @@ body
   height: 500px;
   left: 55%;
   top: 10%;
-  background-image: url("/img/Basin.png");
+  background-image: url("https://github.com/Songkeit/BasinCurve/blob/main/img/Basin.png");
   background-size: contain;
   justify-content: center;
 
@@ -60,7 +60,7 @@ body
   height: 500px;
   right: 55%;
   top: 10%;
-  background-image: url("/img/Basin.png");
+  background-image: url("https://github.com/Songkeit/BasinCurve/blob/main/img/Basin.png");
   background-size: contain;
 
 
