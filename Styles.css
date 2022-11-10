@@ -37,7 +37,7 @@ body
   height: 100%;
   position: absolute;
   border-radius: 50%;
-  background-image: url("/img/White.png");
+  background-image: url("BasinCurve/img/White.png");
   background-size: contain;
   Display: grid;
   Grid-template-columns: repeat(12, 1fr);
@@ -60,7 +60,7 @@ body
   height: 500px;
   right: 55%;
   top: 10%;
-  background-image: url("https://github.com/Songkeit/BasinCurve/blob/main/img/Basin.png");
+  background-image: url("BasinCurve/img/Basin.png");
   background-size: contain;
 
 
@@ -78,7 +78,7 @@ body
   height: 100%;
   position: absolute;
   border-radius: 50%;
-  background-image: url("https://github.com/Songkeit/BasinCurve/blob/main/img/Black.png");
+  background-image: url("BasinCurve/img/Black.png");
   background-size: contain;
   Display: grid;
   Grid-template-columns: repeat(12, 1fr);
