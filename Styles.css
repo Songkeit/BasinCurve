@@ -78,7 +78,7 @@ body
   height: 100%;
   position: absolute;
   border-radius: 50%;
-  background-image: url("./BasinCurve/blob/main/img/Black.png");
+  background-image: url("BasinCurve/img/Black.png");
   background-size: contain;
   Display: grid;
   Grid-template-columns: repeat(12, 1fr);
