@@ -78,7 +78,7 @@ body
   height: 100%;
   position: absolute;
   border-radius: 50%;
-  background-image: url("https://scontent.fbkk13-1.fna.fbcdn.net/v/t1.15752-9/311405350_3307298326175624_2616282510626135776_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGbWmu3012tEkrQhTau06wiWU9kHA7YdLdZT2QcDth0t5lx90qZba5Rc0_ZksYe6tTPvIjQRukE_qgRFfM0q2IV&_nc_ohc=FoA9zQ17NiIAX9KRZMY&_nc_ht=scontent.fbkk13-1.fna&oh=03_AdSITFrRZp366OXl_DKNiJ9vS78QcCGDDH51e0gR9rwUaA&oe=63949863");
+  background-image: url("./BasinCurve/blob/main/img/Black.png");
   background-size: contain;
   Display: grid;
   Grid-template-columns: repeat(12, 1fr);
