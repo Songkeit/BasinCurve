@@ -37,7 +37,7 @@ body
   height: 100%;
   position: absolute;
   border-radius: 50%;
-  background-image: url("BasinCurve/img/White.png");
+  background-image: url("https://cdn.discordapp.com/attachments/813328668919201832/1040319889530957894/White.png");
   background-size: contain;
   Display: grid;
   Grid-template-columns: repeat(12, 1fr);
