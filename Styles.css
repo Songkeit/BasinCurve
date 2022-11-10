@@ -1,0 +1,103 @@
+body
+{  
+  flex-direction: row;
+  margin: auto;
+  width: 640px; 
+  height: 640px;
+  padding-top:5%;
+  padding-left: 10%;
+  background: rgb(214, 211, 163);
+
+}
+#textOnOne{
+  position: relative;
+  font-size: 27px;
+  width: auto;
+  margin-top: -4.8%;
+  margin-left: 75%;
+  text-overflow: ellipsis; 
+  white-space: nowrap;
+  }
+#draggable
+  {position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 55%;
+  top: 10%;
+  background-image: url("/img/Basin.png");
+  background-size: contain;
+  justify-content: center;
+
+
+}
+ 
+
+#rotate
+  {width: 100%;
+  height: 100%;
+  position: absolute;
+  border-radius: 50%;
+  background-image: url("/img/White.png");
+  background-size: contain;
+  Display: grid;
+  Grid-template-columns: repeat(12, 1fr);
+}
+
+
+
+/* image 2 */
+#textOnTwo{
+  position: relative;
+  width: auto;
+  font-size: 27px;
+  margin-top: -6%;
+  margin-left: -30%;
+
+  }
+#draggable2
+  {position: absolute;
+  width: 500px;
+  height: 500px;
+  right: 55%;
+  top: 10%;
+  background-image: url("/img/Basin.png");
+  background-size: contain;
+
+
+
+}
+#con_text2{
+  width: auto;
+}
+#con_text1{
+  width: auto;
+}
+
+#rotate2
+  {width: 100%;
+  height: 100%;
+  position: absolute;
+  border-radius: 50%;
+  background-image: url("/img/Black.png");
+  background-size: contain;
+  Display: grid;
+  Grid-template-columns: repeat(12, 1fr);
+}
+
+#text{
+  text-overflow: ellipsis;
+  font-size: 60px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#container_text{
+  margin: 0;
+  padding: 0;
+}
+
